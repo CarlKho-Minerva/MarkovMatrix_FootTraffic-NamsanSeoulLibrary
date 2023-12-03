@@ -1,4 +1,3 @@
-# CS113 - Deep Dive (LBA)
 ## Foot Traffic Modeling of the 2nd Floor at Namsan Library
 
 ### Table of Contents
