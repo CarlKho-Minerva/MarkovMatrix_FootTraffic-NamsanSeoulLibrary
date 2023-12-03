@@ -1,5 +1,7 @@
 ## Foot Traffic Modeling of the 2nd Floor at Namsan Library
 
+[See Code](https://github.com/CarlKho-Minerva/MarkovMatrix_FootTraffic-NamsanSeoulLibrary/blob/45d2f241b1f81813aeb80ab278cc4c58c6cb580a/FootTraffic.ipynb)
+
 ### Table of Contents
 1. [About Namsan Library (2nd Library)](#about-namsan-library-2nd-library)
 2. [Figure 1: Interactive Virtual Tour in Figma](#figure-1-interactive-virtual-tour-in-figma)
